@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/duck/Desktop/Cplus/kcpp/kcppBasic/src/LPrzeliczanieDec2BinB.cc
+cstdlib
+-
+iostream
+-
+

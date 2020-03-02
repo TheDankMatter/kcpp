@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -O0 -Wno-unused-variable -std=c++11 -g   CMakeFiles/LInstrukcjaIf.dir/src/LInstrukcjaIf.cc.o  -o LInstrukcjaIf -rdynamic 

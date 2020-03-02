@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -O0 -Wno-unused-variable -std=c++11 -g   CMakeFiles/LPrzeliczanieDec2BinA.dir/src/LPrzeliczanieDec2BinA.cc.o  -o LPrzeliczanieDec2BinA -rdynamic 

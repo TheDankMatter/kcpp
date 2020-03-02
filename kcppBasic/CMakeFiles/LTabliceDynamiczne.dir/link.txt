@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -O0 -Wno-unused-variable -std=c++11 -g   CMakeFiles/LTabliceDynamiczne.dir/src/LTabliceDynamiczne.cc.o  -o LTabliceDynamiczne -rdynamic 

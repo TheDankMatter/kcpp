@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -O0 -Wno-unused-variable -std=c++11 -g   CMakeFiles/LOperatorPriorytet.dir/src/LOperatorPriorytet.cc.o  -o LOperatorPriorytet -rdynamic 

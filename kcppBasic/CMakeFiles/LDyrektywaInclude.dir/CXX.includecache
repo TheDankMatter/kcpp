@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/duck/Desktop/Cplus/kcpp/kcppBasic/src/LDyrektywaInclude.cc
+iostream
+-
+LDyrektywaIncludeA.h
+/home/duck/Desktop/Cplus/kcpp/kcppBasic/src/LDyrektywaIncludeA.h
+LDyrektywaIncludeB.h
+-
+
+include/LDyrektywaIncludeA.h
+iostream
+-
+
+include/LDyrektywaIncludeB.h
+iostream
+-
+

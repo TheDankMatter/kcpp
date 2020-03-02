@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/duck/Desktop/Cplus/kcpp/kcppBasic/src/LArytmetykaWskaznikowZmienne.cc
+iostream
+-
+stdio.h
+-
+string
+-
+sstream
+-
+LConversion.h
+-
+
+include/LConversion.h
+iostream
+-
+string
+-
+vector
+-
+stdint.h
+-
+math.h
+-
+

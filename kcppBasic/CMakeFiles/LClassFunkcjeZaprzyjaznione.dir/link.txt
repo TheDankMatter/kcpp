@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -O0 -Wno-unused-variable -std=c++11 -g   CMakeFiles/LClassFunkcjeZaprzyjaznione.dir/src/LClassFunkcjeZaprzyjaznione.cc.o  -o LClassFunkcjeZaprzyjaznione -rdynamic 

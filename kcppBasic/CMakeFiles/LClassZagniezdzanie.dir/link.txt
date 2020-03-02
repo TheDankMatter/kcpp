@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -O0 -Wno-unused-variable -std=c++11 -g   CMakeFiles/LClassZagniezdzanie.dir/src/LClassZagniezdzanie.cc.o  -o LClassZagniezdzanie -rdynamic 

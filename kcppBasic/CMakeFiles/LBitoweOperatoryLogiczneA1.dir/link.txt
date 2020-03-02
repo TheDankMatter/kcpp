@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -O0 -Wno-unused-variable -std=c++11 -g   CMakeFiles/LBitoweOperatoryLogiczneA1.dir/src/LBitoweOperatoryLogiczneA1.cc.o  -o LBitoweOperatoryLogiczneA1 -rdynamic 

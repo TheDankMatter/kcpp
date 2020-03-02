@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -O0 -Wno-unused-variable -std=c++11 -g   CMakeFiles/LInstrukcjaSwitch_char_A.dir/src/LInstrukcjaSwitch_char_A.cc.o  -o LInstrukcjaSwitch_char_A -rdynamic 

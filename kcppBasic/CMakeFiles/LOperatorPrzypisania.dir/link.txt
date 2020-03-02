@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -O0 -Wno-unused-variable -std=c++11 -g   CMakeFiles/LOperatorPrzypisania.dir/src/LOperatorPrzypisania.cc.o  -o LOperatorPrzypisania -rdynamic 

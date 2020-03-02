@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -O0 -Wno-unused-variable -std=c++11 -g   CMakeFiles/LArytmetykaWskaznikow.dir/src/LArytmetykaWskaznikow.cc.o  -o LArytmetykaWskaznikow -rdynamic 

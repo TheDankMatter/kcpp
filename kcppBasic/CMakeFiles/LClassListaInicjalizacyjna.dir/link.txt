@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -O0 -Wno-unused-variable -std=c++11 -g   CMakeFiles/LClassListaInicjalizacyjna.dir/src/LClassListaInicjalizacyjna.cc.o  -o LClassListaInicjalizacyjna -rdynamic 
